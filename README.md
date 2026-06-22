@@ -1,95 +1,165 @@
-<h1 align="center">Hi 👋, I'm Rajesh Goud</h1>
-<h3 align="center">Cybersecurity Enthusiast | Ethical Hacker | SOC & Network Security Learner</h3>
+<h1 align="center">Hey there, I'm Rajesh Goud 👋</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/rajesh-goudmettu">LinkedIn</a> •
-  <a href="mailto:rajeshgoudmettu@gmail.com">Email</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Cybersecurity+Graduate;Ethical+Hacking+Enthusiast;Network+Security+Learner;CTF+Player+%7C+TryHackMe+%26+Hack+The+Box;Future+SOC+Analyst" />
+</p>
+
+<p align="center">
+  <em>Cybersecurity Graduate · Ethical Hacker · Network Security Enthusiast · CTF Player</em>
+</p>
+
+<p align="center">
+  <a href="mailto:rajeshgoudmettu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/rajesh-goudmettu">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://tryhackme.com">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+  <a href="https://www.hackthebox.com">
+    <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-🔐 Cybersecurity graduate passionate about offensive and defensive security
+I'm a Cyber Security graduate passionate about understanding how systems work, how attackers exploit them, and how organizations can defend against evolving cyber threats.
 
-🛡️ Hands-on experience with:
-- Penetration Testing
-- Network Traffic Analysis
-- Vulnerability Assessment
-- OSINT Investigations
-- Web Application Security
+I enjoy working on penetration testing labs, network analysis, vulnerability assessments, and Capture The Flag (CTF) challenges that simulate real-world attack scenarios.
 
-🏆 Active learner on:
-- TryHackMe
-- Hack The Box
-- Capture The Flag (CTF) Challenges
+### Areas of Interest
 
-🌱 Currently improving my skills in:
-- SOC Operations
-- Incident Response
+- 🔍 Penetration Testing
+- 🛡️ Vulnerability Assessment
+- 🌐 Network Security
+- 🚨 Threat Detection & Incident Response
+- 🧩 Digital Forensics
+- 🌎 Open Source Intelligence (OSINT)
+- ☁️ Cloud Security
+
+### Currently Learning
+
+- Security Operations Center (SOC) Workflows
 - Threat Hunting
-- Cloud Security
+- Malware Analysis Fundamentals
+- Blue Team Operations
+- Advanced Web Application Security
+
+🏴 Active participant on **TryHackMe** and **Hack The Box**
+
+📫 Reach me at: **rajeshgoudmettu@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### Cybersecurity Tools
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
-![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square)
+![Nessus](https://img.shields.io/badge/Nessus-00B4E6?style=flat-square)
+
+### Networking & Operating Systems
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-grey?style=flat-square)
+![DNS](https://img.shields.io/badge/DNS-grey?style=flat-square)
+![HTTP/HTTPS](https://img.shields.io/badge/HTTP%2FHTTPS-grey?style=flat-square)
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
-### 🔍 Network Traffic Analysis & Threat Detection
-- Built a simulated SOC-style environment
-- Analyzed packets using Wireshark and TCPdump
-- Identified brute-force attempts and suspicious activity
-- Performed alert triage and incident investigation
+### 🔬 Network Traffic Analysis & Threat Detection
+
+A security monitoring project focused on detecting suspicious activities within a simulated enterprise network environment.
+
+#### Key Highlights
+
+- Captured and analyzed packets using Wireshark and TCPdump
+- Conducted reconnaissance and host discovery using Nmap
+- Identified brute-force login attempts and unusual traffic behavior
+- Investigated alerts following SOC-style incident response workflows
+- Documented findings and proposed mitigation strategies
+
+**Tools Used:** Wireshark, Nmap, TCPdump, Linux
+
+---
 
 ### 🗳️ Blockchain-Based E-Voting System
-- Built a secure voting platform using blockchain
-- Integrated MetaMask authentication
-- Prevented double voting through smart contract validation
-- Ensured transparency and vote immutability
+
+A decentralized voting platform designed to improve election transparency and security through blockchain technology.
+
+#### Key Highlights
+
+- Developed blockchain-based voting architecture
+- Integrated MetaMask for decentralized identity verification
+- Implemented smart contracts to prevent double voting
+- Ensured vote integrity through immutable blockchain records
+- Enhanced transparency and trust in the voting process
+
+**Technologies Used:** Blockchain, Smart Contracts, MetaMask
 
 ---
 
 ## 📜 Certifications
 
-✅ ISC2 Certified in Cybersecurity (CC)
-
-✅ CompTIA Security+ Preparation
-
-✅ Ethical Hacking & Penetration Testing
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
-</p>
+| Certification | Provider |
+|--------------|----------|
+| Certified in Cybersecurity (CC) | ISC2 |
+| CompTIA Security+ Exam Preparation | Udemy |
+| Ethical Hacking & Penetration Testing | Udemy |
 
 ---
 
-## 🤝 Connect With Me
+## 📈 GitHub Statistics
 
-📧 rajeshgoudmettu@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajeshgoud6224&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajeshgoud6224&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-💼 LinkedIn: linkedin.com/in/rajesh-goudmettu
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeshgoud6224&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
 
-⚡ Fun Fact: I enjoy breaking systems ethically through CTFs and security labs to understand how to defend them better.
+---
+
+## 🎯 2025 Goals
+
+- Complete advanced TryHackMe learning paths
+- Earn CompTIA Security+ Certification
+- Build more cybersecurity-focused projects
+- Publish CTF writeups and walkthroughs
+- Contribute to open-source security tools
+- Begin a career in SOC Analysis and Threat Detection
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:rajeshgoudmettu@gmail.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/rajesh-goudmettu">💼 LinkedIn</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rajeshgoud6224&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <em>"The quieter you become, the more you can hear." — Kali Linux</em>
+</p>
