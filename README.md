@@ -1,95 +1,95 @@
-<h1 align="center">Hey there, I'm Rajesh Goud 👋</h1>
+<h1 align="center">Hi 👋, I'm Rajesh Goud</h1>
+<h3 align="center">Cybersecurity Enthusiast | Ethical Hacker | SOC & Network Security Learner</h3>
 
 <p align="center">
-  <em>Cybersecurity Fresher · Ethical Hacker · CTF Enthusiast</em>
-</p>
-
-<p align="center">
-  <a href="mailto:rajeshgoudmettu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/rajesh-goudmettu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
-  <a href="https://www.hackthebox.com"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" /></a>
+  <a href="https://linkedin.com/in/rajesh-goudmettu">LinkedIn</a> •
+  <a href="mailto:rajeshgoudmettu@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-- 🎓 B.Tech in Computer Science (Cyber Security) — Pallavi Engineering College, Hyderabad (2025)
-- 🔍 Passionate about **penetration testing**, **network security**, and **threat detection**
-- 🏴 Active CTF competitor on **TryHackMe** and **Hack The Box**
-- 🛡️ Certified in Cybersecurity (CC) by **ISC2** | CompTIA Security+ prep
-- 📫 Reach me at **rajeshgoudmettu@gmail.com**
+🔐 Cybersecurity graduate passionate about offensive and defensive security
 
----
+🛡️ Hands-on experience with:
+- Penetration Testing
+- Network Traffic Analysis
+- Vulnerability Assessment
+- OSINT Investigations
+- Web Application Security
 
-## 🛠️ Skills & Tools
+🏆 Active learner on:
+- TryHackMe
+- Hack The Box
+- Capture The Flag (CTF) Challenges
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Cybersecurity Tools**
-
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square&logo=linux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-00B4E6?style=flat-square&logo=tenable&logoColor=white)
-
-**Networking & OS**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-grey?style=flat-square)
-![DNS](https://img.shields.io/badge/DNS-grey?style=flat-square)
-![HTTP/HTTPS](https://img.shields.io/badge/HTTP%2FHTTPS-grey?style=flat-square)
+🌱 Currently improving my skills in:
+- SOC Operations
+- Incident Response
+- Threat Hunting
+- Cloud Security
 
 ---
 
-## 🚀 Projects
+## 🛠️ Tech Stack
 
-### 🔬 Network Traffic Analysis & Threat Detection
-> Built a simulated SOC environment to detect real-world attack patterns.
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
-- Analyzed traffic with **Wireshark**, **Nmap**, and **TCPdump**
-- Detected brute-force attempts and abnormal traffic patterns
-- Performed alert triage and documented incident response findings
+### Cybersecurity Tools
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
+![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
+
+## 📂 Featured Projects
+
+### 🔍 Network Traffic Analysis & Threat Detection
+- Built a simulated SOC-style environment
+- Analyzed packets using Wireshark and TCPdump
+- Identified brute-force attempts and suspicious activity
+- Performed alert triage and incident investigation
 
 ### 🗳️ Blockchain-Based E-Voting System
-> Decentralized, tamper-proof e-voting using blockchain and smart contracts.
-
-- Integrated **MetaMask** for decentralized identity authentication
-- Enforced vote immutability and prevented double voting via on-chain validation
+- Built a secure voting platform using blockchain
+- Integrated MetaMask authentication
+- Prevented double voting through smart contract validation
+- Ensured transparency and vote immutability
 
 ---
 
 ## 📜 Certifications
 
-| Certification | Issuer |
-|---|---|
-| Certified in Cybersecurity (CC) | ISC2 (via Udemy) |
-| CompTIA Security+ Exam Prep | Udemy |
-| Ethical Hacking & Penetration Testing | Udemy |
+✅ ISC2 Certified in Cybersecurity (CC)
+
+✅ CompTIA Security+ Preparation
+
+✅ Ethical Hacking & Penetration Testing
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
 </p>
 
 ---
 
-<p align="center">
-</p>
+## 🤝 Connect With Me
+
+📧 rajeshgoudmettu@gmail.com
+
+💼 LinkedIn: linkedin.com/in/rajesh-goudmettu
+
+⚡ Fun Fact: I enjoy breaking systems ethically through CTFs and security labs to understand how to defend them better.
